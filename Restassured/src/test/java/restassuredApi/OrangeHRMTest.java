@@ -22,6 +22,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
 public class OrangeHRMTest {
+	
 	private static final String BASE_URL = "https://opensource-demo.orangehrmlive.com/";
     private WebDriver driver;
 
